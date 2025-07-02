@@ -1,0 +1,595 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/.pnpm/next@15.3.4_@babel+core@7.27.4_@opentelemetry+api@1.9.0_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[0].use[1]!./node_modules/.pnpm/next@15.3.4_@babel+core@7.27.4_@opentelemetry+api@1.9.0_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[0].use[2]!./node_modules/.pnpm/@vanilla-extract+webpack-plugin@2.3.22_webpack@5.99.9_@swc+core@1.12.6_esbuild@0.25.5_/node_modules/@vanilla-extract/webpack-plugin/virtualNextFileLoader/dist/vanilla-extract-webpack-plugin-virtualNextFileLoader.cjs.js!./node_modules/.pnpm/@vanilla-extract+webpack-plugin@2.3.22_webpack@5.99.9_@swc+core@1.12.6_esbuild@0.25.5_/node_modules/@vanilla-extract/webpack-plugin/vanilla.virtual.css?%7B%22fileName%22%3A%22src%2Ffeat-components%2Fblog%2FBlog.css.ts.vanilla.css%22%2C%22source%22%3A%22%23H4sIAAAAAAAAE51YXW%2FbNhR9z68gUBTZACuQZEdW1Jc1LboVS4KhKfZa0NKVzYUiVZJq7A757wNFU9YHJTnzQxIz0rlfR%2Feeq6tbyrffsFAkpfCBM4UJA%2FHt23f6009TH%2F17gdAzydQuQXH09t0FQgXee8eTIPT9cm8OxZawBPkIV4rrkxJnGWHbBK38co%2BCSF%2F3cnHVNneHD7xS1lZQ28qILCk%2BJGgrSKZx9G9PQVFSrMBLOa0KJhMU5AItrfUtLhMU%2BW0TBSZMhwOsMRDWBlrur1ej3tsAff%2FtwO0%2FAGenFC2PqBrB23CleJGgVWyAj0lozpehOd9wkYFojoNyjySnJENvoP6cbCqiKFhbq9pWzpnyJPkJJrfv7NEzkO1OJSj2fX1GCQNvdzwLrkJ9lnLKRYLeLOtPN3Qfhatyj8y9oBQIT5Y4rWvo%2BVfX7ewqvL0jssnsdbd0OQXjFYW99yx0cfTPplJxO%2BunJEQ9CxY96qITVke2oTx96hJN88wmGKdPW8ErlnlNzEEc5lErC887ouBdN6HB0pHQyCT0WDSBM1JJ6y9CCvbKyyDlAivCWYIYZ60C4krtuPjMcm7jWbuzhSnZMo8oKGSCUmAKRJMxG9ZkyoylB1w0fIn7fLE%2Bu8Lrc6ML%2B4WfaHgzgF0ZWAsRbdZRvDpBlNWGErn7iFWDgV%2BLcXz4bnl2sBibAcbaYPSov3ZTv74xxwWhhwR5uCwpePIgFRQLdEsJe7rH6WP9%2FRNnaoEu3%2BtL0ONH9DtXO5KiB%2BCXC3T5lwAFLMMiQ39jQfCGQvdYf3vgiqNHzCT688vlAknMpCdBkHwmwl3YDzKMHTVcu2t4er51R%2Bo%2B4t0cLef8WA78CP%2BPH8uo9iOIR%2FyYq3jZarfHruWPQK1noCq6QBP%2F5nTClG3sFHKV1FmdMUZJB20s%2FGgGpu563yuuoAOn50rHscT4Gq5G22Ee5zc5bvU1E8rqNIpODbPX%2BdoEdPQVqQ4UEkQUpiRts%2BG6%2FsxEmPLMxObyOciX%2BXUbEm4CiJbdwMs9ijpj1vq9GvrdPrKt4PHTPWfc%2BwLbimKxQB84k5xiuUCXd2QDps0jfc3lAt0Do1xfUwkCYoEKzrgemzDHYzEeZa8yXX1wAynk40Xp1L%2F94J2efP4DRE75c9KoHUdGerycq5oOZ6JySmAmSyyAKXd7aNz2ZwyZuTGc6YMpXLEMhI5i0KOu%2FVkjyU4nqWMqSKNVhmduJMW2LzKNhETI5tLm3F2%2BYbUanXAUPJP2lR4%2Bbc1urR%2BtpZxSXEpIkP3LbbRNiOvZ3qZ2k41UZYYVU2Ru6m%2BVTl3PWhIlSHemWRfmn6ah6LGQkmSwwY2kT2uskktiqCQVSZ8OtVe8rHNqfLQlzYnyUrNrDDAfIdUgFjpzbQtmK%2Bjd%2BLUt%2FOEsITczfMeUNk%2FbWj6vTVEim0Zu9Gz3GW3NxQ7SZwWFRdq6Yo0HptmTvWHXFcZDhR9ZfvZF4qgKP6e3rQZDMGwo2mtc3bHfcFVfdOQKphT5V6FEgCWMR%2BpoMINxq40Mtpce4PtUkR8NTcgI4MQ2M2lE7rCAHoP%2FMQ9Hf8ycozCazanLd22kw%2Fansd3gnLVlyPahtdtKKc6ktUfdC9lpV3XcbO8tuumIJ3fQZuN8zWCPhqoldK9KE0%2FBGRR1Bdei6aQcO40X96o9YJZG%2B8rbfYc5t%2FxzluO%2B8tHpeQ0vX6WvhnR7TecZ6pCRYXBWxRxJnC7YILhheX4rICMY%2FdJ%2BTRbF5f7XGrMzgUfeFjba48ZIj%2F5OYtn70uA53nE5N96RQaahnI4HvlY0Ds9dLx6n3jQa4zXZ7Bu3k%2FdO8dBisqXDy8XLf%2FzOudVtFQAA%22%7D ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Blog_articleContainer__qlz0cc0 {
+  width: 86%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 16px;
+}
+.Blog_articleLayout__qlz0cc1 {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 60px;
+}
+.Blog_mainContent__qlz0cc2 {
+  max-width: 740px;
+  margin: 0 auto;
+  width: 100%;
+}
+.Blog_articleHeader__qlz0cc3 {
+  margin-bottom: 48px;
+  padding-bottom: 32px;
+  border-bottom: 1px solid #eeeeee;
+}
+.Blog_title__qlz0cc4 {
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #333333;
+  margin: 0 0 24px 0;
+  letter-spacing: -0.5px;
+}
+.Blog_tagList__qlz0cc5 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.Blog_tag__qlz0cc6 {
+  display: inline-block;
+  padding: 4px 12px;
+  background-color: #3182f6;
+  color: white;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 16px;
+  text-decoration: none;
+}
+.Blog_authorInfo__qlz0cc7 {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.Blog_authorName__qlz0cc8 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #333333;
+}
+.Blog_authorRole__qlz0cc9 {
+  font-size: 14px;
+  color: #6b7684;
+}
+.Blog_publishDate__qlz0cca {
+  font-size: 14px;
+  color: #6b7684;
+}
+.Blog_articleBody__qlz0ccb {
+  font-size: 17px;
+  line-height: 1.7;
+  color: #333333;
+  font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Pretendard Variable', 'Pretendard', 'Noto Sans KR', sans-serif;
+}
+.Blog_articleBody__qlz0ccb h2 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #333333;
+  margin: 48px 0 24px 0;
+  line-height: 1.3;
+}
+.Blog_articleBody__qlz0ccb h3 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #333333;
+  margin: 36px 0 18px 0;
+  line-height: 1.4;
+}
+.Blog_articleBody__qlz0ccb p {
+  margin: 0 0 20px 0;
+  line-height: 1.7;
+}
+.Blog_articleBody__qlz0ccb ul, .Blog_articleBody__qlz0ccb ol {
+  margin: 0 0 20px 0;
+  padding-left: 24px;
+}
+.Blog_articleBody__qlz0ccb li {
+  margin: 8px 0;
+  line-height: 1.6;
+}
+.Blog_articleBody__qlz0ccb blockquote {
+  margin: 32px 0;
+  padding: 20px 24px;
+  background-color: #f8f9fa;
+  border-left: 4px solid #3182f6;
+  border-radius: 8px;
+  font-size: 16px;
+  font-style: italic;
+  color: #555555;
+}
+.Blog_articleBody__qlz0ccb code {
+  background-color: #f1f3f5;
+  color: #e91e63;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+}
+.Blog_articleBody__qlz0ccb pre {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 24px 0;
+  overflow: auto;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.Blog_articleBody__qlz0ccb pre code {
+  background-color: transparent;
+  color: #333333;
+  padding: 0;
+}
+.Blog_articleBody__qlz0ccb a {
+  color: #3182f6;
+  text-decoration: underline;
+  font-weight: 500;
+}
+.Blog_articleBody__qlz0ccb a:hover {
+  color: #1c64da;
+}
+.Blog_articleBody__qlz0ccb img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 24px 0;
+  display: block;
+}
+.Blog_articleBody__qlz0ccb table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+  font-size: 15px;
+}
+.Blog_articleBody__qlz0ccb th, .Blog_articleBody__qlz0ccb td {
+  border: 1px solid #e9ecef;
+  padding: 12px;
+  text-align: left;
+}
+.Blog_articleBody__qlz0ccb th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+.Blog_sidebar__qlz0ccc {
+  position: sticky;
+  top: 100px;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.Blog_sidebarSection__qlz0ccd {
+  margin-bottom: 32px;
+}
+.Blog_sidebarTitle__qlz0cce {
+  font-size: 16px;
+  font-weight: 700;
+  color: #333333;
+  margin-bottom: 16px;
+}
+.Blog_tocList__qlz0ccf {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.Blog_tocItem__qlz0ccg {
+  margin-bottom: 8px;
+}
+.Blog_tocLink__qlz0cch {
+  display: block;
+  padding: 6px 0;
+  color: #6b7684;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1.4;
+  border-left: 2px solid transparent;
+  padding-left: 12px;
+  transition: all 0.2s ease;
+}
+.Blog_tocLink__qlz0cch:hover {
+  color: #3182f6;
+  border-left-color: #3182f6;
+}
+.Blog_tocLinkActive__qlz0cci {
+  color: #3182f6;
+  font-weight: 600;
+  border-left-color: #3182f6;
+}
+.Blog_shareSection__qlz0ccj {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 12px;
+}
+.Blog_shareTitle__qlz0cck {
+  font-size: 14px;
+  font-weight: 600;
+  color: #333333;
+  margin-bottom: 12px;
+}
+.Blog_shareButtons__qlz0ccl {
+  display: flex;
+  gap: 8px;
+}
+.Blog_shareButton__qlz0ccm {
+  padding: 8px 12px;
+  background-color: white;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  font-size: 12px;
+  color: #6b7684;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+.Blog_shareButton__qlz0ccm:hover {
+  background-color: #f1f3f5;
+  border-color: #3182f6;
+  color: #3182f6;
+}
+.Blog_backToList__qlz0ccn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  color: #333333;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 32px;
+  transition: all 0.2s ease;
+}
+.Blog_backToList__qlz0ccn:hover {
+  background-color: #e9ecef;
+  border-color: #3182f6;
+}
+@media (max-width: 768px) {
+  .Blog_articleContainer__qlz0cc0 {
+    width: 90%;
+    padding: 20px 12px;
+  }
+  .Blog_title__qlz0cc4 {
+    font-size: 28px;
+    margin-bottom: 16px;
+  }
+}
+@media (max-width: 1024px) {
+  .Blog_articleLayout__qlz0cc1 {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+  .Blog_sidebar__qlz0ccc {
+    display: none;
+  }
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/.pnpm/next@15.3.4_@babel+core@7.27.4_@opentelemetry+api@1.9.0_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[0].use[1]!./node_modules/.pnpm/next@15.3.4_@babel+core@7.27.4_@opentelemetry+api@1.9.0_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[0].use[2]!./node_modules/.pnpm/@vanilla-extract+webpack-plugin@2.3.22_webpack@5.99.9_@swc+core@1.12.6_esbuild@0.25.5_/node_modules/@vanilla-extract/webpack-plugin/virtualNextFileLoader/dist/vanilla-extract-webpack-plugin-virtualNextFileLoader.cjs.js!./node_modules/.pnpm/@vanilla-extract+webpack-plugin@2.3.22_webpack@5.99.9_@swc+core@1.12.6_esbuild@0.25.5_/node_modules/@vanilla-extract/webpack-plugin/vanilla.virtual.css?%7B%22fileName%22%3A%22src%2Fstyles%2FtossStyle.css.ts.vanilla.css%22%2C%22source%22%3A%22%23H4sIAAAAAAAAE81YS4%2FbNhC%2B51cMYAS7DixD9Gtt9tI2QXJoEhQxUKAng7Ioi1mJVCl617tF%2FntBypZISvKj6KHywbL1ceab4cxwRlgKoeDvNwBBsBWZkGUQke3jToo9jzcbFMl0Xk5CDIPEXD91Iz8Q%2BVijEYbBBE3mk5WDLiTLiXypYRMMgylaTpKFAyvpVvDYBk4xDNB2MYuJA1T0oGrMTAszVwvjcJv3WCJkTGWNWmAYUHN1oBx5DxgGM3M5yHyvaOO%2BJYbBInpYLDtAjrQVhgEJ9acClgXZ0oALTmsIweA8LHOSZfXTCEM4nkua25Ccxmyf15gtBuQhMiJ3jYoYw8QDHFwExTCtEYngSvsmbnYswRCQoshoUL6UiuYj%2BDVj%2FPEL2a7N74%2BCqxHc%2FaIhsP4An4RK2Ra%2BUnE3grvfJVVUh0AMfxDJSJRR92%2F966tQAtaEl%2FDbt7sRlITr0JEssUmllMSM72peu%2F8Jr1xwYRxbM0sx3K0%2FwhfBtar1R30TfKO7fUbkCN4LXoqMlCO4%2B8wiKoligp%2FAXyjPhMbsJaNyBLXwRuOavdLSCxWmQ2X5MHf2sQI6e%2FndDpcGk05rxCMGNJ50CUonNSjToE4MqjG5HXgNwgs%2BbgdfmZJYPPu2CQwhoOIA0%2BIAcheR%2B3BkPmM0dNd5uVHohbPiAItLC11OfxmFYXEANO9bKUnMmEdUYq3Nfu4RKjEsXYCrWGFACxfglu49htVqtdKQH2%2F0xppir50bJCRn2QuGJyLvu9PYMM%2BJ3DF%2BLDsFiXVGHX%2BZQnYS0FmWjYTmnAi6VnQdOGZdxjgNUsp2qTZzvNAmvBvBO4wjmghJzS1JFJXGqEgcgpK9GnpVqQ4iYeweK1GWa%2FWS0c1WcEUYt4r9k1n8zGKVYlgu3lY2H4LjP2gShpWDa0cA2SvheuNoUXfBHXocor1SgtfPn2%2FeEoMt2Su1kV25O3RY2hy9c2N4yQA4uVQH2b48CesMaguOQZ9eJlb2stRbXwjGFZX6LyUJL5muZRhIlkE4npRASUlrG5%2BPmz8Pw24fmhDa%2BK3FoYqH82HX6keGVkjXTcINSnEqnk6heF51R4%2FTEyOVqjb%2BpUeNcWlBJOXK3gRdC0uRsdjLPK%2FtGV6d1DdxtR1TBVGXDq9n6lGio37jxttrkz%2FdOeEdfP8yKfyHZ%2Fh5%2BYNCw%2FA%2FycNene65gFC%2FypZU56nXC%2Foqt0Q2m4Qm9qZ2VQb%2FOOv3fWfNOVMh2qxoRp9MZ7RJMtKEK5paJG9JhXMaJGGlFa1o1pxApkGobevuT26V7mRQnw6%2Fl%2BlUolKa002my2ojf35N0eo9pq%2FtAvpT%2FyrnV8xjZ9Jc3EbcHVPPknenxusMcCdD3wjHJejBMD%2FTW13fD7S1dBRJtLy9SvYIdgig1SW5rY6kR6w1USBySag9fgxb7cKi1S5YapqZBEW%2BGjQ%2BjRbXy2vmF7S9SNsadtq0H86o8YYgFF9S5U9NPepaXfaki0K1ZMOFzIkVU7QhcRI667bhKMA%2FGJO2gHarZwuIRGbVxV17eY8Pq97E55%2Ba9bc3PJZIt2tBzJZYv%2FTpW%2By3kOi7s%2Fz0dsxZrt9pWLUSPdpHcCSUEvlt%2Fd6VPULYjEC1mhv6hkzsREM6u5go1puD3si9tqt3iBSiVJ8ks%2FYsN2RiVhYZecGwkyzW0vV3oGheZERRLX6f8xKDpAUl6l6PgEHCsmwEOeM5OdxP9Zw4ApTIoWG8I8UVHc7pBDjnSvBDWtvw3mnEuGtDklEzsurvIGaSbqseqrJCP6kTPgzf%2Bp2WuU%2BEzHv7rQ4CVotSrz%2BK0g788z6YFYdWIqX7POKEWTkp7HH8xK5muzzO4iL6TrcqSJjSRj1V8%2BSNE%2BqZYO7q9X%2FW%2B0fg3no38LBYFoehIXzFK4baqlVlVO%2F7g7Z2gB9vfvwDH0amvawXAAA%3D%22%7D ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+:root {
+  --colors-background__1brh5s20: #ffffff;
+  --colors-backgroundDark__1brh5s21: #212529;
+  --colors-primary__1brh5s22: #3182f6;
+  --colors-secondary__1brh5s23: #1c64da;
+  --colors-text__1brh5s24: #333333;
+  --colors-textDark__1brh5s25: #ffffff;
+  --colors-border__1brh5s26: #eeeeee;
+  --colors-borderDark__1brh5s27: #444444;
+  --colors-muted__1brh5s28: #6b7684;
+  --colors-mutedDark__1brh5s29: #a0a0a0;
+  --space-none__1brh5s2a: 0;
+  --space-small__1brh5s2b: 0.5rem;
+  --space-medium__1brh5s2c: 1rem;
+  --space-large__1brh5s2d: 2rem;
+  --space-xlarge__1brh5s2e: 3rem;
+  --fonts-body__1brh5s2f: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Pretendard Variable', 'Pretendard', 'Noto Sans KR', sans-serif;
+  --fonts-heading__1brh5s2g: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Pretendard Variable', 'Pretendard', 'Noto Sans KR', sans-serif;
+  --fonts-monospace__1brh5s2h: 'SF Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+  --fontSizes-small__1brh5s2i: 0.875rem;
+  --fontSizes-body__1brh5s2j: 1rem;
+  --fontSizes-h3__1brh5s2k: 1.25rem;
+  --fontSizes-h2__1brh5s2l: 1.5rem;
+  --fontSizes-h1__1brh5s2m: 2rem;
+  --fontSizes-xlarge__1brh5s2n: 3rem;
+  --shadows-small__1brh5s2o: 0 1px 3px rgba(0,0,0,0.1);
+  --shadows-medium__1brh5s2p: 0 4px 6px rgba(0,0,0,0.1);
+  --shadows-large__1brh5s2q: 0 10px 15px rgba(0,0,0,0.1);
+  --radii-small__1brh5s2r: 4px;
+  --radii-medium__1brh5s2s: 8px;
+  --radii-large__1brh5s2t: 16px;
+  --radii-round__1brh5s2u: 9999px;
+}
+body {
+  font-family: var(--fonts-body__1brh5s2f);
+  margin: 0;
+  padding: 0;
+  color: var(--colors-text__1brh5s24);
+  background-color: var(--colors-background__1brh5s20);
+  line-height: 1.6;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+.tossStyle_container__1brh5s2v {
+  width: 86%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--space-medium__1brh5s2c);
+}
+.tossStyle_button__1brh5s2w {
+  font-family: var(--fonts-body__1brh5s2f);
+  font-size: var(--fontSizes-body__1brh5s2j);
+  padding: var(--space-small__1brh5s2b) var(--space-medium__1brh5s2c);
+  border-radius: var(--radii-small__1brh5s2r);
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+.tossStyle_button_color_primary__1brh5s2x {
+  background-color: var(--colors-primary__1brh5s22);
+  color: #ffffff;
+}
+.tossStyle_button_color_primary__1brh5s2x:hover {
+  background-color: var(--colors-secondary__1brh5s23);
+}
+.tossStyle_button_color_secondary__1brh5s2y {
+  background-color: transparent;
+  border: 1px solid var(--colors-border__1brh5s26);
+  color: var(--colors-text__1brh5s24);
+}
+.tossStyle_button_color_secondary__1brh5s2y:hover {
+  border-color: var(--colors-muted__1brh5s28);
+}
+.tossStyle_button_size_small__1brh5s2z {
+  font-size: var(--fontSizes-small__1brh5s2i);
+  padding: var(--space-small__1brh5s2b) var(--space-small__1brh5s2b);
+}
+.tossStyle_button_size_medium__1brh5s210 {
+  padding: var(--space-small__1brh5s2b) var(--space-medium__1brh5s2c);
+}
+.tossStyle_button_size_large__1brh5s211 {
+  padding: var(--space-medium__1brh5s2c) var(--space-large__1brh5s2d);
+}
+.tossStyle_card__1brh5s212 {
+  border-radius: var(--radii-medium__1brh5s2s);
+  padding: var(--space-medium__1brh5s2c);
+  transition: all 0.2s ease;
+}
+.tossStyle_card_elevation_flat__1brh5s213 {
+  border: 1px solid var(--colors-border__1brh5s26);
+}
+.tossStyle_card_elevation_raised__1brh5s214 {
+  box-shadow: var(--shadows-small__1brh5s2o);
+}
+.tossStyle_card_elevation_raised__1brh5s214:hover {
+  box-shadow: var(--shadows-medium__1brh5s2p);
+}
+.tossStyle_card_theme_light__1brh5s215 {
+  background-color: var(--colors-background__1brh5s20);
+  color: var(--colors-text__1brh5s24);
+  border-color: var(--colors-border__1brh5s26);
+}
+.tossStyle_card_theme_dark__1brh5s216 {
+  background-color: var(--colors-backgroundDark__1brh5s21);
+  color: var(--colors-textDark__1brh5s25);
+  border-color: var(--colors-borderDark__1brh5s27);
+}
+.tossStyle_text__1brh5s217 {
+  margin: 0;
+  padding: 0;
+  font-family: var(--fonts-body__1brh5s2f);
+}
+.tossStyle_text_size_small__1brh5s218 {
+  font-size: var(--fontSizes-small__1brh5s2i);
+}
+.tossStyle_text_size_body__1brh5s219 {
+  font-size: var(--fontSizes-body__1brh5s2j);
+}
+.tossStyle_text_size_h3__1brh5s21a {
+  font-size: var(--fontSizes-h3__1brh5s2k);
+  font-weight: 600;
+}
+.tossStyle_text_size_h2__1brh5s21b {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+.tossStyle_text_size_h1__1brh5s21c {
+  font-size: var(--fontSizes-h1__1brh5s2m);
+  font-weight: 700;
+}
+.tossStyle_text_size_xlarge__1brh5s21d {
+  font-size: var(--fontSizes-xlarge__1brh5s2n);
+  font-weight: 700;
+  line-height: 1.2;
+}
+.tossStyle_text_weight_normal__1brh5s21e {
+  font-weight: 400;
+}
+.tossStyle_text_weight_medium__1brh5s21f {
+  font-weight: 500;
+}
+.tossStyle_text_weight_bold__1brh5s21g {
+  font-weight: 700;
+}
+.tossStyle_text_color_normal__1brh5s21h {
+  color: var(--colors-text__1brh5s24);
+}
+.tossStyle_text_color_muted__1brh5s21i {
+  color: #6b7684;
+}
+.tossStyle_text_color_primary__1brh5s21j {
+  color: #3182f6;
+}
+.tossStyle_header__1brh5s21k {
+  border-bottom: 1px solid var(--colors-border__1brh5s26);
+  padding: var(--space-medium__1brh5s2c) 0;
+  margin-bottom: var(--space-large__1brh5s2d);
+}
+.tossStyle_logo__1brh5s21l {
+  font-size: var(--fontSizes-h2__1brh5s2l);
+  font-weight: 700;
+  color: var(--colors-primary__1brh5s22);
+}
+.tossStyle_postGrid__1brh5s21m {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--space-medium__1brh5s2c);
+  margin: var(--space-large__1brh5s2d) 0;
+}
+.tossStyle_postCard__1brh5s21n {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  transition: transform 0.2s ease;
+}
+.tossStyle_postCard__1brh5s21n:hover {
+  transform: translateY(-4px);
+}
+.tossStyle_thumbnail__1brh5s21o {
+  width: 100%;
+  height: 180px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: var(--radii-small__1brh5s2r);
+  margin-bottom: var(--space-small__1brh5s2b);
+}
+@media (max-width: 768px) {
+  .tossStyle_container__1brh5s2v {
+    width: 90%;
+    padding: 0 var(--space-small__1brh5s2b);
+  }
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/.pnpm/next@15.3.4_@babel+core@7.27.4_@opentelemetry+api@1.9.0_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[0].use[1]!./node_modules/.pnpm/next@15.3.4_@babel+core@7.27.4_@opentelemetry+api@1.9.0_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[0].use[2]!./node_modules/.pnpm/@vanilla-extract+webpack-plugin@2.3.22_webpack@5.99.9_@swc+core@1.12.6_esbuild@0.25.5_/node_modules/@vanilla-extract/webpack-plugin/virtualNextFileLoader/dist/vanilla-extract-webpack-plugin-virtualNextFileLoader.cjs.js!./node_modules/.pnpm/@vanilla-extract+webpack-plugin@2.3.22_webpack@5.99.9_@swc+core@1.12.6_esbuild@0.25.5_/node_modules/@vanilla-extract/webpack-plugin/vanilla.virtual.css?%7B%22fileName%22%3A%22src%2Fcomponents%2FHeader%2FHeader.css.ts.vanilla.css%22%2C%22source%22%3A%22%23H4sIAAAAAAAAE51VyW7bMBC9%2ByuIFAXiAw1ZXmIrlza9tEBv%2FQCDkkYSE4kUyJEtp%2FC%2FFyJNLV7iuL5YHJIzb968GU5%2BAotBbTL7tynnnL%2B9euTviJCQRW%2BpkpWIaSRzqQKyZeqR2oWm3fZmMw1VttC%2BN34eEVJKzZFLERCNPHrbNzaUZUC85iuHBI%2BfiqeZ%2B36nXMRQB2Tqecaw4zFmZvm1WWZgDy%2FWZW0cKiZcmFDWVGcsljviTWaaANPwPDqMJoPk%2FpgTLsWpTbG9GRCPTMuaeMQjX8D8zl28SNVjyTcuOpzbXR%2Fo1OI8J7H13mcq4TXELVEuyVtcrdfrPshICmRcdAhnfYSrpSGyYDV1mH3Ps4EKplIuGg5YhbKz0FAiyiIg%2FtweLFkcc5EatpaN6ZSiH1IgCHQI5gZBzHWZs31AkhyMm9dKI0%2F2NLKn7QbVyBQ22yznqaAcodABiUAgqHMNdJFzmcrvCpgLurgc9IpXhBqp2QsM4Y2tuRIYLVg%2BhrFcnKWJk0iBVPN3CIh%2FpNOYdke0K6tnV%2F3ZdOUnywHpttSIoKguWWT4pd5kMcxSsC1PWSMXF%2F%2FpHnJBxL26WmWdJleAqH5z3VZvdTlAzjVSjfscAiKkgLNkOpU0q5SVAZn55S1wQxy%2FEAqHY21wmELFEEnFbNO42JemU3O4nUvz8fOwUFa7J4VaeEPw82YcDNtUQc6Qb%2BFDsAFLEJSB3Gb58DB0xEIt8woNfNdj1D%2Fr%2BmOjDkegf22yDAgoFS%2BY2rcc%2BOPTsWmcX56Y5zllcguql9lgPN%2B8eCTjcygveGNRw%2FoGVQXOM7vL50mpn5pSfzLO7aSbW1JodyO8a%2FyY7jidpboKdaR4CC8VYtfw0cd90Bf4%2FILAl4NJ9AnO2lZYlXXbM6F5BKliMa90N%2FOs2bx7RMucx%2FfKkeU58Sb%2BuRivkdGT1n%2F1wvHkLuNo4n0rIOaMPPZeyKflqqzHJsSNR7YVx9o26%2FCpPLbsoefn2jjvKcfV9TA6%2FAO9%2FL46qAkAAA%3D%3D%22%7D ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Header_header__p4iikj0 {
+  background-color: var(--colors-background__1brh5s20);
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  width: 100%;
+  height: 59px;
+  transition: box-shadow 0.3s ease;
+}
+.Header_headerShadow__p4iikj1 {
+  box-shadow: 0 1px 0 0 #eeeeee;
+}
+.Header_headerBorder__p4iikj2 {
+  width: 100vw;
+  height: 1px;
+  background-color: #eeeeee;
+  position: fixed;
+  top: 59px;
+  left: 0;
+  right: 0;
+  z-index: 999;
+}
+.Header_container__p4iikj3 {
+  width: 86%;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-bottom: 24px;
+  padding: 0 16px;
+}
+.Header_headerContent__p4iikj4 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 59px;
+}
+.Header_logoArea__p4iikj5 {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  flex: 0 0 auto;
+}
+.Header_logo__p4iikj6 {
+  font-size: 20px;
+  font-weight: 800;
+  color: #3182f6;
+  margin: 0;
+  letter-spacing: -0.5px;
+}
+.Header_navigation__p4iikj7 {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+.Header_menuList__p4iikj8 {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 32px;
+  justify-content: flex-end;
+}
+.Header_menuItem__p4iikj9 {
+  text-decoration: none;
+  color: var(--colors-text__1brh5s24);
+  font-size: 16px;
+  font-weight: 500;
+  padding: 4px 0;
+  position: relative;
+}
+.Header_menuItem__p4iikj9:after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background-color: var(--colors-primary__1brh5s22);
+  transition: width 0.3s ease;
+}
+.Header_menuItem__p4iikj9:hover:after {
+  width: 100%;
+}
+.Header_menuItem__p4iikj9:hover {
+  color: var(--colors-primary__1brh5s22);
+}
+.Header_menuItem_active_true__p4iikja {
+  color: var(--colors-primary__1brh5s22);
+  font-weight: 700;
+}
+.Header_menuItem_active_true__p4iikja:after {
+  width: 100%;
+}
+.Header_actions__p4iikjb {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.Header_subscribeButton__p4iikjc {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--colors-primary__1brh5s22);
+  padding: 8px 16px;
+  border-radius: 20px;
+  border: 1px solid var(--colors-primary__1brh5s22);
+  transition: all 0.2s ease;
+}
+.Header_subscribeButton__p4iikjc:hover {
+  background-color: var(--colors-primary__1brh5s22);
+  color: white;
+}
+@media (max-width: 768px) {
+  .Header_container__p4iikj3 {
+    width: 90%;
+    padding: 0 12px;
+  }
+  .Header_navigation__p4iikj7 {
+    display: none;
+  }
+}
