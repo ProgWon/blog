@@ -6,7 +6,7 @@ import Ad from "@/src/components/Ad";
 interface MDXRendererProps {
   code: string;
 }
-
+// test
 export default function MDXRenderer({ code }: MDXRendererProps) {
   const MDXComponent = useMDXComponent(code);
 
